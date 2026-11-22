@@ -1,0 +1,13 @@
+[package]
+name = "music-migrate"
+version = "0.1.0"
+edition = "2024"
+rust-version = "1.100"
+description = "Move your music library from Yandex Music and Spotify to YouTube Music: liked tracks, playlists, saved albums and followed artists"
+license = "Apache-2.0"
+repository = "https://github.com/DimazzzZ/music-migrate"
+readme = "README.md"
+keywords = ["youtube-music", "spotify", "yandex-music", "playlist", "migration"]
+categories = ["command-line-utilities"]
+
+[dependencies]
